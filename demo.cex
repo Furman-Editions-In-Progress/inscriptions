@@ -1,0 +1,45 @@
+// 
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#Demo Inscription
+urn#urn:cite2:cex:fufolio.2021a:MemoninInscriptions
+license#CC Share Alike.  For details, see more info.
+
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:fuPaleography:rosenmeyer.3.dipl:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 3#Latin. Diplomatic##true#lat
+urn:cts:fuPaleography:rosenmeyer.3.leiden:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 3#Latin. Critical (Leiden Convention)##true#lat
+urn:cts:fuPaleography:rosenmeyer.3.norm:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 3#Latin. Normalized edition##true#lat
+urn:cts:fuPaleography:rosenmeyer.3.trans:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 3#English##true#eng
+
+#!ctsdata
+urn:cts:fuPaleography:rosenmeyer.3.leiden:1#Ti(berius) Iulius
+urn:cts:fuPaleography:rosenmeyer.3.leiden:2#Lupus, pr(aefectus) Aeg(ypti)
+urn:cts:fuPaleography:rosenmeyer.3.leiden:3#Audi Memn[onem]
+urn:cts:fuPaleography:rosenmeyer.3.leiden:4#Hora p[rima]
+urn:cts:fuPaleography:rosenmeyer.3.leiden:5#Fe[---]
+
+#!ctsdata
+urn:cts:fuPaleography:rosenmeyer.3.dipl:1#TIIULIUS
+urn:cts:fuPaleography:rosenmeyer.3.dipl:2#LUPUSPRAEG
+urn:cts:fuPaleography:rosenmeyer.3.dipl:3#AUDIMEMN
+urn:cts:fuPaleography:rosenmeyer.3.dipl:4#HORAP
+urn:cts:fuPaleography:rosenmeyer.3.dipl:5#FE
+
+#!ctsdata
+urn:cts:fuPaleography:rosenmeyer.3.norm:1#Tiberius Iulius
+urn:cts:fuPaleography:rosenmeyer.3.norm:2#Lupus, praefectus Aegypti
+urn:cts:fuPaleography:rosenmeyer.3.norm:3#Audi Memnonem
+urn:cts:fuPaleography:rosenmeyer.3.norm:4#Hora prima
+urn:cts:fuPaleography:rosenmeyer.3.norm:5#Fe…
+
+#!ctsdata
+urn:cts:fuPaleography:rosenmeyer.3.trans:1#I, Tiberius Julius
+urn:cts:fuPaleography:rosenmeyer.3.trans:2#Lupus, praefect of Egypt,
+urn:cts:fuPaleography:rosenmeyer.3.trans:3#heard Memnonem
+urn:cts:fuPaleography:rosenmeyer.3.trans:4#At the first hour
+urn:cts:fuPaleography:rosenmeyer.3.trans:5#…
