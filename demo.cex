@@ -15,6 +15,14 @@ urn:cts:fuPaleography:rosenmeyer.3.dipl:#physical line#Inscriptions reproduced i
 urn:cts:fuPaleography:rosenmeyer.3.leiden:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 3#Latin. Critical (Leiden Convention)##true#lat
 urn:cts:fuPaleography:rosenmeyer.3.norm:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 3#Latin. Normalized edition##true#lat
 urn:cts:fuPaleography:rosenmeyer.3.trans:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 3#English##true#eng
+urn:cts:fuPaleography:rosenmeyer.13.dipl:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 13#Latin. Diplomatic##true#lat
+urn:cts:fuPaleography:rosenmeyer.13.leiden:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 13#Latin. Critical (Leiden Convention)##true#lat
+urn:cts:fuPaleography:rosenmeyer.13.norm:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 13#Latin. Normalized edition##true#lat
+urn:cts:fuPaleography:rosenmeyer.13.trans:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 13#English##true#eng
+urn:cts:fuPaleography:rosenmeyer.41.dipl:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 41#Latin. Diplomatic##true#lat
+urn:cts:fuPaleography:rosenmeyer.41.leiden:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 41#Latin. Critical (Leiden Convention)##true#lat
+urn:cts:fuPaleography:rosenmeyer.41.norm:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 41#Latin. Normalized edition##true#lat
+urn:cts:fuPaleography:rosenmeyer.41.trans:#physical line#Inscriptions reproduced in Rosenmeyer#Inscription 41#English##true#eng
 
 #!ctsdata
 urn:cts:fuPaleography:rosenmeyer.3.leiden:1#Ti(berius) Iulius
